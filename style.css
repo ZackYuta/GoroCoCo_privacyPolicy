@@ -7,24 +7,12 @@ div {
     background: rgb(222, 219, 244);
 }
 
-
-/*div.wrap{
-    margin:0 auto
-    上部の余白が出来ない→sectionで設定する
-} */
-
 figure {
     margin: 0;
     width: 100%;
     border: solid 3px #000000;
 }
 
-
-/*
-img {
-    margin: 0 0 0 0;
-    width: 100%
-} */
 
 h1 {
     color: rgb(72, 52, 212);
